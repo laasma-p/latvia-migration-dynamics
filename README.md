@@ -33,4 +33,11 @@ The first dataset details immigration and emigration volumes, categorized by var
 
 ## Limitations
 
-_This section will be populated once the data has been inspected_.
+The following limitations apply to `ibe010-migration-by-country-groups-2016-2025-raw.csv` and should be considered when interpreting trends over time:
+
+- The population size at the beginning of 2023 and 2024 was recalculated using a new estimation method. This affects the migration estimates and results in a methodological break in the time series.
+- Migration data for 2022 were not recalculated, therefore that data is not fully comparable with the population size at the beginning of 2023.
+- Since 2019, Ukraine is no longer a member of NVS country group.
+- Since 2021, Moldova is no longer a member of NVS country group.
+- Until 2018, `Pārējās valstis` has been calculated without the UK.
+- Since 2019, `Pārējās valstis` has been calculated with the UK.
