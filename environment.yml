@@ -3,6 +3,8 @@ channels:
   - defaults
 dependencies:
   - ipykernel=7.3.0
+  - matplotlib=3.11.2
   - notebook=7.6.3
   - pandas=3.0.6
   - python=3.13.18
+  - seaborn=0.13.2
